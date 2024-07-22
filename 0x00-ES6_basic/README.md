@@ -7,8 +7,7 @@ For this project, we expect you to look at these concepts:
 * [JavaScript programming](https://intranet.alxswe.com/concepts/852 "JavaScript programming")
 * [Software Linter](https://intranet.alxswe.com/concepts/542 "Software Linter")
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240722T114931Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=677b8e1f19086242d27efda0ef3622d860337df699a9ba82ae60a9d25783b8f0)
-
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png)
 
 ## Resources
 **Read or watch:**
@@ -17,7 +16,7 @@ For this project, we expect you to look at these concepts:
 * [Statements and declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements "Statements and declarations")
 * [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions "Arrow functions")
 * [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters "Default parameters")
-* [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters"Rest parameter")
+* [Rest parameter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters "Rest parameter")
 * [Javascript ES6 — Iterables and Iterators](https://towardsdatascience.com/javascript-es6-iterables-and-iterators-de18b54f4d4?gi=05ecd0b930cc "Javascript ES6 — Iterables and Iterators")
 
 ### Learning Objectives
@@ -87,7 +86,7 @@ Don’t forget to run `npm install` from the terminal of your project folder to 
 * [6-string-interpolation.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/6-string-interpolation.js "6-string-interpolation.js")
 * [7-getBudgetObject.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/7-getBudgetObject.js "7-getBudgetObject.js")
 * [8-getBudgetCurrentYear.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/8-getBudgetCurrentYear.js "8-getBudgetCurrentYear.js")
-* [9-getFullBudget.js(https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js "9-getFullBudget.js")
+* [9-getFullBudget.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/9-getFullBudget.js "9-getFullBudget.js")
 * [10-loops.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/10-loops.js "10-loops.js")
 * [11-createEmployeesObject.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/11-createEmployeesObject.js "11-createEmployeesObject.js")
 * [12-createReportObject.js](https://github.com/mahari9/alx-backend-javascript/0x00-ES6_basic/12-createReportObject.js "12-createReportObject.js")
