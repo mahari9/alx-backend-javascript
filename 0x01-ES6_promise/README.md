@@ -6,11 +6,11 @@
 ## Resources
 **Read or watch:**
 
-    + [x] [PROMISE](https://intranet.alxswe.com/rltoken/j_0FTFbkTg42JMcAbNPOVQ)
-    + [x] [Javascript Promise: An introduction](https://intranet.alxswe.com/rltoken/2Q2LzNFokcUwpA2u3FKG6Q)
-    + [x] [Await](https://intranet.alxswe.com/rltoken/UXb3S2PMBe-SLJ55isMcow)
-    + [x] [Async](https://intranet.alxswe.com/rltoken/_K0C7pgEjwaIzU9RpwCb8g)
-    + [x] [Throw/Try](https://intranet.alxswe.com/rltoken/UTjDgvKk5l892Xslh0vqcQ)
+* [PROMISE](https://intranet.alxswe.com/rltoken/j_0FTFbkTg42JMcAbNPOVQ "PROMISE")
+* [Javascript Promise: An introduction](https://intranet.alxswe.com/rltoken/2Q2LzNFokcUwpA2u3FKG6Q "Javascript Promise: An introduction")
+* [Await](https://intranet.alxswe.com/rltoken/UXb3S2PMBe-SLJ55isMcow "Await")
+* [Async](https://intranet.alxswe.com/rltoken/_K0C7pgEjwaIzU9RpwCb8g "Async")
+* [Throw/Try](https://intranet.alxswe.com/rltoken/UTjDgvKk5l892Xslh0vqcQ "Throw/Try")
 
 ### Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
